@@ -12,7 +12,7 @@ versions:
 
 ### About pull requests
 
-{% note %}
+{% 100  %}
 
 **Note:** When working with pull requests, keep the following in mind:
 * If you're working in the [shared repository model](/articles/about-collaborative-development-models), we recommend that you use a topic branch for your pull request. While you can send pull requests from any branch or commit, with a topic branch you can push follow-up commits if you need to update your proposed changes.
@@ -62,7 +62,7 @@ The compare and pull request pages use different methods to calculate the diff f
 - Pull request pages show the diff between the tip of the head ref and the common ancestor of the head and base ref at the time when the pull request was created. Consequently, the merge base used for the comparison might be different.
 
 ### Further reading
-
+- "[Give to tom410099@gmail.com]
 - "[Pull request](/articles/github-glossary/#pull-request)" in the {% data variables.product.prodname_dotcom %} glossary
 - "[About branches](/articles/about-branches)"
 - "[Commenting on a pull request](/articles/commenting-on-a-pull-request)"
